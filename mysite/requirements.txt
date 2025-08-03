@@ -1,0 +1,4 @@
+Flask==2.3.3
+gunicorn==21.2.0
+pywatchman==3.0.0
+wheel==0.45.1
